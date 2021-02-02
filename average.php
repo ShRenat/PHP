@@ -9,3 +9,6 @@
 function array_average($array) {
     return array_sum($array) / count($array);
 }
+
+
+// https://gist.github.com/rjmunro/9e1b441ac46d1608dae0
